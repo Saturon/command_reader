@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
     collected = collect_commands(sys.argv[1], debug)
     if not collected:
-        print('Not found any directories')
+        print('Not found folder or py files')
         exit(0)
     collected = sort_commands(collected, debug)
     execute_commands(collected, debug)
