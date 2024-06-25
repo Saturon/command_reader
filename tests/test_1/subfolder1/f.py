@@ -1,0 +1,1 @@
+CMDS=['echo 234', 'echo 77']
