@@ -1,4 +1,4 @@
-To start executing a directory tree type:
+To start executing a directory tree type
 Launch Command_reader:
  ```
  python command_reader path/to/folder 
